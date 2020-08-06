@@ -1,0 +1,37 @@
+{
+  "equipos": [
+    {
+      "id": 1,
+      "nombre": "Aguilas del Zulia"
+    },
+    {
+      "id": 2,
+      "nombre": "Bravos de Margarita"
+    },
+    {
+      "id": 3,
+      "nombre": "Cardenales de Lara"
+    },
+    {
+      "id": 4,
+      "nombre": "Caribes de Anzoategui"
+    },
+    {
+      "id": 5,
+      "nombre": "Leones del Caracas",
+      "logo": "localhost:3000/public/assets/assets/logo-leones-del-caracas.jpg"
+    },
+    {
+      "id": 6,
+      "nombre": "Navegantes del Magallanes"
+    },
+    {
+      "id": 7,
+      "nombre": "Tiburones de la Guaira"
+    },
+    {
+      "id": 8,
+      "nombre": "Tigres de Aragua"
+    }
+  ]
+}

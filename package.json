@@ -1,0 +1,17 @@
+{
+  "name": "lvbp-fan-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run": "json-server lvbpMASTER.json --read-only true  ",
+    "WPOST": "json-server lvbpMASTER.json --no-cors true  "
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "json-server": "^0.16.1"
+  }
+}
