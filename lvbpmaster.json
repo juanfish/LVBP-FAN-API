@@ -33,5 +33,785 @@
       "id": 8,
       "nombre": "Tigres de Aragua"
     }
+  ],
+  "jugadores" : [
+    { 
+      "idjugador":1,
+      "idEquipo": 5,
+      "nombre":"Camacho, Yoimer"      ,
+      "edad":29,
+      "camiseta":"74",
+      "posicion" :"Pitcher"
+      
+    },
+    { 
+      "idjugador":2,
+      "idEquipo": 5,
+      "nombre":"Camaripano, Junior"      ,
+      "edad":26,
+      "camiseta":"82",
+      "posicion" :"Pitcher"
+    },
+    { 
+      "idjugador":3,
+      "idEquipo": 5,
+      "nombre":"Carrillo, Francisco"      ,
+      "edad":29,
+      "camiseta":"61",
+      "posicion" :"Pitcher"
+    },
+    { 
+      "idjugador":4,
+      "idEquipo": 5,
+      "nombre":"Carvallo, Felix"      ,
+      "edad":26,
+      "camiseta":"40",
+      "posicion" :"Pitcher"
+    },
+    { 
+      "idjugador":5,
+      "idEquipo": 5,
+      "nombre":"Chacin, Alejandro"      ,
+      "edad":26,
+      "camiseta":"77",
+      "posicion" :"Pitcher"
+    },
+    { 
+      "idjugador":6,
+      "idEquipo": 5,
+      "nombre":"De Los Rios"      ,
+      "edad":24,
+      "camiseta":"68",
+      "posicion" :"Pitcher"
+    },
+    { 
+      "idjugador":7,
+      "idEquipo": 5,
+      "nombre":"Flores, Manuel"      ,
+      "edad":32,
+      "camiseta":"52",
+      "posicion" :"Pitcher"
+    },
+    { 
+      "idjugador":8,
+      "idEquipo": 5,
+      "nombre":"Garcia, Yeudy"      ,
+      "edad":27,
+      "camiseta":"-<",
+      "posicion" :"Pitcher"
+    },
+    { 
+      "idjugador":9,
+      "idEquipo": 5,
+      "nombre":"Garcia, Elniery"      ,
+      "edad":25,
+      "camiseta":"-<",
+      "posicion" :"Pitcher"
+    },
+    { 
+      "idjugador":10,
+      "idEquipo": 5,
+      "nombre":"Hernandez, Anjul"      ,
+      "edad":24,
+      "camiseta":"83",
+      "posicion" :"Pitcher"
+    },
+    { 
+      "idjugador":11,
+      "idEquipo": 5,
+      "nombre":"Hurtado, Daniel"      ,
+      "edad":27,
+      "camiseta":"75",
+      "posicion" :"Pitcher"
+    },
+    { 
+      "idjugador":12,
+      "idEquipo": 5,
+      "nombre":"Larez, Victor"      ,
+      "edad":32,
+      "camiseta":"-<",
+      "posicion" :"Pitcher"
+    },
+    { 
+      "idjugador":13,
+      "idEquipo": 5,
+      "nombre":"Lopez, Frank"      ,
+      "edad":25,
+      "camiseta":"67",
+      "posicion" :"Pitcher"
+    },
+    { 
+      "idjugador":14,
+      "idEquipo": 5,
+      "nombre":"Morales, Franklin"      ,
+      "edad":34,
+      "camiseta":"-<",
+      "posicion" :"Pitcher"
+    },
+    { 
+      "idjugador":15,
+      "idEquipo": 5,
+      "nombre":"Ortiz, Jose"      ,
+      "edad":34,
+      "camiseta":"-<",
+      "posicion" :"Pitcher"
+    },
+    { 
+      "idjugador":16,
+      "idEquipo": 5,
+      "nombre":"Padron, Loiger"      ,
+      "edad":29,
+      "camiseta":"34",
+      "posicion" :"Pitcher"
+    },
+    { 
+      "idjugador":17,
+      "idEquipo": 5,
+      "nombre":"Pina, Carlos"      ,
+      "edad":29,
+      "camiseta":"82",
+      "posicion" :"Pitcher"
+    },
+    { 
+      "idjugador":18,
+      "idEquipo": 5,
+      "nombre":"Quevedo, Carlos"      ,
+      "edad":30,
+      "camiseta":"63",
+      "posicion" :"Pitcher"
+    },
+    { 
+      "idjugador":19,
+      "idEquipo": 5,
+      "nombre":"Quinonez, Eduar"      ,
+      "edad":30,
+      "camiseta":"76",
+      "posicion" :"Pitcher"
+    },
+    { 
+      "idjugador":20,
+      "idEquipo": 5,
+      "nombre":"Ramirez, Ramon"      ,
+      "edad":37,
+      "camiseta":"48",
+      "posicion" :"Pitcher"
+    },
+    { 
+      "idjugador":21,
+      "idEquipo": 5,
+      "nombre":"Rodriguez, Carlos"      ,
+      "edad":24,
+      "camiseta":"72",
+      "posicion" :"Pitcher"
+    },
+    { 
+      "idjugador":22,
+      "idEquipo": 5,
+      "nombre":"Socolovich, Miguel"      ,
+      "edad":33,
+      "camiseta":"55",
+      "posicion" :"Pitcher"
+    },
+    { 
+      "idjugador":23,
+      "idEquipo": 5,
+      "nombre":"Vasquez, Wanel"      ,
+      "edad":33,
+      "camiseta":"64",
+      "posicion" :"Pitcher"
+    },
+    { 
+      "idjugador":24,
+      "idEquipo": 5,
+      "nombre":"Bracamonte, Gabriel",
+      "edad":24,
+      "camiseta":"85",
+      "posicion" :"Catcher"
+    },
+    { 
+      "idjugador":25,
+      "idEquipo": 5,
+      "nombre":"Cabrera, Ramon",
+      "edad":30,
+      "camiseta":"38",
+      "posicion" :"Catcher"
+    },
+    { 
+      "idjugador":26,
+      "idEquipo": 5,
+      "nombre":"Gonzalez, Alfredo",
+      "edad":27,
+      "camiseta":"78",
+      "posicion" :"Catcher"
+    },
+    { 
+      "idjugador":27,
+      "idEquipo": 5,
+      "nombre":"Raga, Argenis",
+      "edad":25,
+      "camiseta":"36",
+      "posicion" :"Catcher"
+    },
+    { 
+      "idjugador":28,
+      "idEquipo": 5,
+      "nombre":"Tejeda, Isaias",
+      "edad":28,
+      "camiseta":"71",
+      "posicion" :"Catcher"
+    },
+    { 
+      "idjugador":29,
+      "idEquipo": 5,
+      "nombre":"Torres, Juan",
+      "edad":31,
+      "camiseta":"81",
+      "posicion" :"Catcher"
+    },
+    { 
+      "idjugador":30,
+      "idEquipo": 5,
+      "nombre":"Acosta, Leisman",
+      "edad":23,
+      "camiseta":"86",
+      "posicion" :"Infield"
+    },
+    { 
+      "idjugador":31,
+      "idEquipo": 5,
+      "nombre":"Ferrini, Leonardo",
+      "edad":30,
+      "camiseta":"27",
+      "posicion" :"Infield"
+    },
+    { 
+      "idjugador":32,
+      "idEquipo": 5,
+      "nombre":"Garcia, Jose",
+      "edad":31,
+      "camiseta":"4",
+      "posicion" :"Infield"
+    },
+    { 
+      "idjugador":33,
+      "idEquipo": 5,
+      "nombre":"Gonzalez, Maikol",
+      "edad":33,
+      "camiseta":"5",
+      "posicion" :"Infield"
+    },
+    { 
+      "idjugador":34,
+      "idEquipo": 5,
+      "nombre":"Kelly, Juan",
+      "edad":25,
+      "camiseta":"89",
+      "posicion" :"Infield"
+    },
+    { 
+      "idjugador":35,
+      "idEquipo": 5,
+      "nombre":"Ledezma, Junnell",
+      "edad":24,
+      "camiseta":"79",
+      "posicion" :"Infield"
+    },
+    { 
+      "idjugador":36,
+      "idEquipo": 5,
+      "nombre":"Silverio, Juan",
+      "edad":28,
+      "camiseta":"58",
+      "posicion" :"Infield"
+    },
+    { 
+      "idjugador":37,
+      "idEquipo": 5,
+      "nombre":"Tovar, Wilfredo",
+      "edad":28,
+      "camiseta":"7",
+      "posicion" :"Infield"
+    },
+    { 
+      "idjugador":38,
+      "idEquipo": 5,
+      "nombre":"Galindo, Jesus",
+      "edad":29,
+      "camiseta":"91",
+      "posicion" :"Outfield"
+    },
+    { 
+      "idjugador":39,
+      "idEquipo": 5,
+      "nombre":"Leonora, Ericson",
+      "edad":27,
+      "camiseta":"79",
+      "posicion" :"Outfield"
+    },
+    { 
+      "idjugador":40,
+      "idEquipo": 5,
+      "nombre":"Pinto, Eduard",
+      "edad":25,
+      "camiseta":"68",
+      "posicion" :"Outfield"
+    },
+    { 
+      "idjugador":41,
+      "idEquipo": 5,
+      "nombre":"Rondon, Jose",
+      "edad":25,
+      "camiseta":"88",
+      "posicion" :"Outfield"
+    },
+    { 
+      "idjugador":42,
+      "idEquipo": 5,
+      "nombre":"Solorzano, Jesus",
+      "edad":29,
+      "camiseta":"86",
+      "posicion" :"Outfield"
+    },
+    { 
+      "idjugador":42,
+      "idEquipo": 6,
+      "nombre":"Acosta, Manny",
+      "edad":38,
+      "camiseta":"98",
+      "posicion" :"Pitcher"
+    },
+    { 
+      "idjugador":42,
+      "idEquipo": 6,
+      "nombre":"Alvarado, Carlos",
+      "edad":30,
+      "camiseta":"79",
+      "posicion" :"Pitcher"
+    },
+    { 
+      "idjugador":42,
+      "idEquipo": 6,
+      "nombre":"Andueza, Ivan",
+      "edad":25,
+      "camiseta":"82",
+      "posicion" :"Pitcher"
+    },
+    { 
+      "idjugador":42,
+      "idEquipo": 6,
+      "nombre":"Boscan, Wilfredo",
+      "edad":30,
+      "camiseta":"103",
+      "posicion" :"Pitcher"
+    },
+    { 
+      "idjugador":42,
+      "idEquipo": 6,
+      "nombre":"Camacaro, Luis",
+      "edad":35,
+      "camiseta":"68",
+      "posicion" :"Pitcher"
+    },
+    { 
+      "idjugador":42,
+      "idEquipo": 6,
+      "nombre":"Casimiro, Ranfi",
+      "edad":27,
+      "camiseta":"91",
+      "posicion" :"Pitcher"
+    },
+    { 
+      "idjugador":42,
+      "idEquipo": 6,
+      "nombre":"Cazorla, Kevin",
+      "edad":26,
+      "camiseta":"86",
+      "posicion" :"Pitcher"
+    },
+    { 
+      "idjugador":42,
+      "idEquipo": 6,
+      "nombre":"Doubront, Felix",
+      "edad":32,
+      "camiseta":"109",
+      "posicion" :"Pitcher"
+    },
+    { 
+      "idjugador":42,
+      "idEquipo": 6,
+      "nombre":"Garcia, Silfredo",
+      "edad":28,
+      "camiseta":"77",
+      "posicion" :"Pitcher"
+    },
+    { 
+      "idjugador":42,
+      "idEquipo": 6,
+      "nombre":"Garcia, Jhon",
+      "edad":32,
+      "camiseta":"98",
+      "posicion" :"Pitcher"
+    },
+    { 
+      "idjugador":42,
+      "idEquipo": 6,
+      "nombre":"Garcia, Eliezer",
+      "edad":35,
+      "camiseta":"84",
+      "posicion" :"Pitcher"
+    },
+    { 
+      "idjugador":42,
+      "idEquipo": 6,
+      "nombre":"Guerra, Jorge",
+      "edad":20,
+      "camiseta":"71",
+      "posicion" :"Pitcher"
+    },
+    { 
+      "idjugador":42,
+      "idEquipo": 6,
+      "nombre":"Hernandez, Danny",
+      "edad":34,
+      "camiseta":"82",
+      "posicion" :"Pitcher"
+    },
+    { 
+      "idjugador":42,
+      "idEquipo": 6,
+      "nombre":"Ibarra, Edgar",
+      "edad":30,
+      "camiseta":"86",
+      "posicion" :"Pitcher"
+    },
+    { 
+      "idjugador":42,
+      "idEquipo": 6,
+      "nombre":"Jimenez, Elis",
+      "edad":27,
+      "camiseta":"88",
+      "posicion" :"Pitcher"
+    },
+    { 
+      "idjugador":42,
+      "idEquipo": 6,
+      "nombre":"Jimenez, Dedgar",
+      "edad":23,
+      "camiseta":"109",
+      "posicion" :"Pitcher"
+    },
+    { 
+      "idjugador":42,
+      "idEquipo": 6,
+      "nombre":"Kussmaul, Ryan",
+      "edad":33,
+      "camiseta":"86",
+      "posicion" :"Pitcher"
+    },
+    { 
+      "idjugador":42,
+      "idEquipo": 6,
+      "nombre":"Larez, Victor",
+      "edad":32,
+      "camiseta":"73",
+      "posicion" :"Pitcher"
+    },
+    { 
+      "idjugador":42,
+      "idEquipo": 6,
+      "nombre":"Machado, Ronard",
+      "edad":21,
+      "camiseta":"90",
+      "posicion" :"Pitcher"
+    },
+    { 
+      "idjugador":42,
+      "idEquipo": 6,
+      "nombre":"Martinez, Luis",
+      "edad":25,
+      "camiseta":"91",
+      "posicion" :"Pitcher"
+    },
+    { 
+      "idjugador":42,
+      "idEquipo": 6,
+      "nombre":"Pino, Yohan",
+      "edad":36,
+      "camiseta":"86",
+      "posicion" :"Pitcher"
+    },
+    { 
+      "idjugador":42,
+      "idEquipo": 6,
+      "nombre":"Prada, Nelson",
+      "edad":19,
+      "camiseta":"77",
+      "posicion" :"Pitcher"
+    },
+    { 
+      "idjugador":42,
+      "idEquipo": 6,
+      "nombre":", Luis Alfredo",
+      "edad":24,
+      "camiseta":"73",
+      "posicion" :"Pitcher"
+    },
+    { 
+      "idjugador":42,
+      "idEquipo": 6,
+      "nombre":", Luis Alberto",
+      "edad":37,
+      "camiseta":"92",
+      "posicion" :"Pitcher"
+    },
+    { 
+      "idjugador":42,
+      "idEquipo": 6,
+      "nombre":"Reyes, Eduard",
+      "edad":29,
+      "camiseta":"79",
+      "posicion" :"Pitcher"
+    },
+    { 
+      "idjugador":42,
+      "idEquipo": 6,
+      "nombre":"Rico, Luis",
+      "edad":26,
+      "camiseta":"79",
+      "posicion" :"Pitcher"
+    },
+    { 
+      "idjugador":42,
+      "idEquipo": 6,
+      "nombre":"Romero, Orlando",
+      "edad":23,
+      "camiseta":"96",
+      "posicion" :"Pitcher"
+    },
+    { 
+      "idjugador":42,
+      "idEquipo": 6,
+      "nombre":"Rondon, Bruce",
+      "edad":29,
+      "camiseta":"125",
+      "posicion" :"Pitcher"
+    },
+    { 
+      "idjugador":42,
+      "idEquipo": 6,
+      "nombre":"Rondon, Jorge",
+      "edad":31,
+      "camiseta":"98",
+      "posicion" :"Pitcher"
+    },
+    { 
+      "idjugador":42,
+      "idEquipo": 6,
+      "nombre":"Rosendo, Ender",
+      "edad":30,
+      "camiseta":"100",
+      "posicion" :"Pitcher"
+    },
+    { 
+      "idjugador":42,
+      "idEquipo": 6,
+      "nombre":"Salcedo, Adrian",
+      "edad":29,
+      "camiseta":"91",
+      "posicion" :"Pitcher"
+    },
+    { 
+      "idjugador":42,
+      "idEquipo": 6,
+      "nombre":"Sosa, Kevin",
+      "edad":25,
+      "camiseta":"87",
+      "posicion" :"Pitcher"
+    },
+    { 
+      "idjugador":42,
+      "idEquipo": 6,
+      "nombre":"Zarate, Robert",
+      "edad":33,
+      "camiseta":"91",
+      "posicion" :"Pitcher"
+    },
+    { 
+      "idjugador":42,
+      "idEquipo": 6,
+      "nombre":"Boscan, Manuel",
+      "edad":26,
+      "camiseta":"73",
+      "posicion" :"Catcher"
+    },
+    { 
+      "idjugador":42,
+      "idEquipo": 6,
+      "nombre":"Hernandez, Oscar",
+      "edad":26,
+      "camiseta":"104",
+      "posicion" :"Catcher"
+    },
+    { 
+      "idjugador":42,
+      "idEquipo": 6,
+      "nombre":"Nieto, Arturo",
+      "edad":27,
+      "camiseta":"88",
+      "posicion" :"Catcher"
+    },
+    { 
+      "idjugador":42,
+      "idEquipo": 6,
+      "nombre":"Pinto, Josmil",
+      "edad":30,
+      "camiseta":"102",
+      "posicion" :"Catcher"
+    },
+    { 
+      "idjugador":42,
+      "idEquipo": 6,
+      "nombre":"Valera, Jackson",
+      "edad":27,
+      "camiseta":"79",
+      "posicion" :"Catcher"
+    },
+    { 
+      "idjugador":42,
+      "idEquipo": 6,
+      "nombre":"Amaya, Gioskar",
+      "edad":79,
+      "camiseta":"80",
+      "posicion" :"Infield"
+    },
+    { 
+      "idjugador":42,
+      "idEquipo": 6,
+      "nombre":"Cedeno, Ronny",
+      "edad":88,
+      "camiseta":"83",
+      "posicion" :"Infield"
+    },
+    { 
+      "idjugador":42,
+      "idEquipo": 6,
+      "nombre":"Cedeno, Diego",
+      "edad":73,
+      "camiseta":"80",
+      "posicion" :"Infield"
+    },
+    { 
+      "idjugador":42,
+      "idEquipo": 6,
+      "nombre":"Garcia, Adonis",
+      "edad":93,
+      "camiseta":"75",
+      "posicion" :"Infield"
+    },
+    { 
+      "idjugador":42,
+      "idEquipo": 6,
+      "nombre":"Garcia, Hector",
+      "edad":95,
+      "camiseta":"88",
+      "posicion" :"Infield"
+    },
+    { 
+      "idjugador":42,
+      "idEquipo": 6,
+      "nombre":"Munoz, Edgar",
+      "edad":68,
+      "camiseta":"75",
+      "posicion" :"Infield"
+    },
+    { 
+      "idjugador":42,
+      "idEquipo": 6,
+      "nombre":"Navarro, Raul",
+      "edad":77,
+      "camiseta":"78",
+      "posicion" :"Infield"
+    },
+    { 
+      "idjugador":42,
+      "idEquipo": 6,
+      "nombre":"Pereira, Anthony",
+      "edad":88,
+      "camiseta":"83",
+      "posicion" :"Infield"
+    },
+    { 
+      "idjugador":42,
+      "idEquipo": 6,
+      "nombre":"Rosa, Garabez",
+      "edad":75,
+      "camiseta":"88",
+      "posicion" :"Infield"
+    },
+    { 
+      "idjugador":42,
+      "idEquipo": 6,
+      "nombre":"Vivas, Wilfred",
+      "edad":73,
+      "camiseta":"80",
+      "posicion" :"Infield"
+    },
+    { 
+      "idjugador":42,
+      "idEquipo": 6,
+      "nombre":"Becerra, Wuilmer",
+      "edad":110,
+      "camiseta":"91",
+      "posicion" :"outfield"
+    },
+    { 
+      "idjugador":42,
+      "idEquipo": 6,
+      "nombre":"Colasante, Moises",
+      "edad":80,
+      "camiseta":"75",
+      "posicion" :"outfield"
+    },
+    { 
+      "idjugador":42,
+      "idEquipo": 6,
+      "nombre":"Gotta, Cade",
+      "edad":93,
+      "camiseta":"93",
+      "posicion" :"outfield"
+    },
+    { 
+      "idjugador":42,
+      "idEquipo": 6,
+      "nombre":"Marcano, Ricardo",
+      "edad":86,
+      "camiseta":"88",
+      "posicion" :"outfield"
+    },
+    { 
+      "idjugador":42,
+      "idEquipo": 6,
+      "nombre":"Martinez, Alberth",
+      "edad":77,
+      "camiseta":"85",
+      "posicion" :"outfield"
+    },
+    { 
+      "idjugador":42,
+      "idEquipo": 6,
+      "nombre":"Mejias, Jose",
+      "edad":73,
+      "camiseta":"85",
+      "posicion" :"outfield"
+    },
+    { 
+      "idjugador":42,
+      "idEquipo": 6,
+      "nombre":"Rodriguez, Yorman",
+      "edad":95,
+      "camiseta":"88",
+      "posicion" :"outfield"
+    }
+
   ]
 }
